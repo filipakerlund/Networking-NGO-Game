@@ -550,6 +550,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5294643222524382438, guid: b35f0dba0327b2d409bd97376ca65ff7, type: 3}
+      propertyPath: m_text
+      value: Quit
+      objectReference: {fileID: 0}
+    - target: {fileID: 6049016953833454910, guid: b35f0dba0327b2d409bd97376ca65ff7, type: 3}
+      propertyPath: m_text
+      value: Quit
+      objectReference: {fileID: 0}
     - target: {fileID: 8188337553236553473, guid: b35f0dba0327b2d409bd97376ca65ff7, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
